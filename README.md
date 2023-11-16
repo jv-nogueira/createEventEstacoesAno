@@ -7,11 +7,6 @@ Este script em Google Apps Script utiliza a API do Google Agenda para criar even
 - Conta Google para acessar o Google Agenda.
 - Google Apps Script integrado a uma planilha do Google Sheets.
 
-## Contato
-
-- E-mail: [jvnogueira2010@gmail.com](mailto:jvnogueira2010@gmail.com)
-- LinkedIn: [www.linkedin.com/in/nogueira-jv](https://www.linkedin.com/in/nogueira-jv/)
-
 ## Instruções
 
 1. Abra o Google Sheets onde deseja executar o script.
